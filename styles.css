@@ -1,0 +1,15 @@
+body {
+    text-align: left;
+    background-color: beige;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 3.25rem;
+    font-family: 'Noto Serif Malayalam', serif;
+}
+
+.top-container {
+    font-size: 1.50rem;
+    font-family: 'Noto Serif Malayalam', serif;
+}
